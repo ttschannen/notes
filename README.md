@@ -1,2 +1,5 @@
-# notes
-Testrepo for notes
+# My notes
+
+These notes are all public..
+
+
