@@ -2,4 +2,6 @@
 
 These notes are all public..
 
+bms included
+
 
